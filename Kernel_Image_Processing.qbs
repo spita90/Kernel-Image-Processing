@@ -23,6 +23,7 @@ QtApplication {
         "mainwindow.h",
         "mainwindow.ui",
         "matrix.h",
+        "README.md",
     ]
 
     install: true
